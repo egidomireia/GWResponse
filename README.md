@@ -36,3 +36,10 @@ To import the response module, use:
 ```bash
 from gwresponse.response import LISA_response
 ```
+
+---
+## Author notes
+This code was developed as part of my Bachelor's Thesis in Physics at the University of Barcelona (UB), in collaboration with the **Institute of Space Sciences (ICE-CSIC)** and under the supervision of **Dr. Carlos F. Sopuerta**.
+
+The implementation has been validated by direct comparison with the results of the **BBHx** waveform toolkit, ensuring consistency in the detector response modeling for the (2,2) mode of gravitational waves.
+
